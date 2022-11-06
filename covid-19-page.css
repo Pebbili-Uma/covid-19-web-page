@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-19-bg-container {
+    background-color: #0967d219;
+    padding: 8px;
+}
+
+.card-container {
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+.section1-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.section2-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.section3-main-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin: 24px;
+}
+
+.section2-description {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.section2-card-container {
+    background-color: #0967d219;
+    padding: 24px;
+    margin: 24px;
+    border-radius: 12px;
+}
+
+.section4-card-container {
+    background-color: #e12d3919;
+    padding: 24px;
+    margin: 24px;
+    border-radius: 12px;
+}
+
+.section2-img {
+    height: 75px;
+    width: 75px;
+    margin-right: 18px;
+}
+
+.section3-img {
+    height: 45px;
+    width: 45px;
+}
+
+.section3-card-container {
+
+    margin: 24px;
+    border-radius: 8px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.section3-card1 {
+    background-color: #3ebd93;
+}
+
+.section3-card2 {
+    background-color: #e668a7;
+}
+
+.section3-card3 {
+    background-color: #3ebd93;
+}
+
+.section-3-sub-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-top: 4px;
+    font-weight: 500;
+}
